@@ -1,0 +1,11 @@
+body {
+    background-color:gold;
+}
+.heading {
+    color: gray;
+    font-size: 50px;
+}
+#unique {
+    color:brown;
+    font-size: 25px;
+}
