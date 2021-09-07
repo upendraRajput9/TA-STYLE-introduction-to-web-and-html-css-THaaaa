@@ -1,0 +1,23 @@
+.header {
+    text-align: center;
+}
+h1 {
+    color: white;
+}
+p {
+    color: white;
+}
+h2 {
+    color: darkgreen;
+}
+body {
+    color: white;
+    background-color: rgb(31, 31, 95);
+}
+a {
+    color: rgb(247, 39, 2);
+}
+footer {
+    text-align: center;
+    background-color: rgb(19, 19, 49);
+}
